@@ -8,7 +8,7 @@ Useful for storing JSON documents and Web Crypto Keys.
 ```js
 const store = await gladstone('Wallet').open('Keys');
 await store.set('DID_URL', CryptoKey);
-\`\`\`
+\```
 <img src="./image.png" alt="example stored data"/>
 
 ## Open Issues
