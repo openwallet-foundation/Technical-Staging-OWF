@@ -4,6 +4,12 @@ A javascript wrapper around IndexDB.
 
 Useful for storing JSON documents and Web Crypto Keys.
 
+
+\`\`\`json
+const store = await gladstone('Wallet').open('Keys');
+await store.set('DID_URL', CryptoKey);
+\`\`\`
+
 <img src="./image.png" alt="example stored data"/>
 
 ## Open Issues
