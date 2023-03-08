@@ -1,0 +1,5 @@
+repository:
+  name: Technical-Staging-OWF
+  description: Support technical development relating to the Open Wallet Foundation. Intends to act as a staging area for contributions before the TAC and contribution contributors decide upon which OWF technical project a contribution should be housed.
+  archived: true
+  private: false
